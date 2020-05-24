@@ -1,4 +1,4 @@
-# # Udacity - Creating Customer Segments with Arvato
+# Udacity - Creating Customer Segments with Arvato
 This is part of "Intro to Machine Learning" Nanodegree.
 
 This project is to implement an image classifier with PyTorch, then convert it into a command line applications: train.py, predict.py.
